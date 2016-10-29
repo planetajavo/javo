@@ -1,6 +1,6 @@
-# Jekyll Modern Blog
+# Planetejavo portfolio
 
-A Simple, Clean and responsive modern blog for jekyll.
+Interaction & Product design.
 
 ## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
