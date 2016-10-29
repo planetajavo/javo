@@ -2,7 +2,7 @@
 
 Interaction & Product design.
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+## [Check it now](http://javo.netlify.com//)
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
